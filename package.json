@@ -1,6 +1,6 @@
 {
 	"name": "@clementprevot/pi-busy-session-guard",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Pi extension that confirms new, resumed, or forked sessions while work is still running",
 	"keywords": [
 		"pi-package",
