@@ -34,10 +34,9 @@ This guard protects the commands shipped by two sibling extensions from the same
 ## Local development
 
 ```bash
-corepack enable
-yarn install
-yarn test
-yarn typecheck
+npm install
+npm test
+npm run typecheck
 ```
 
 To try the extension in a live session without installing it:
